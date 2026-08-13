@@ -43,14 +43,19 @@ A DSI é um serviço que busca personalizar a entrega de informação de acordo 
 Glossário
 
 DSI: Disseminação Seletiva da Informação.
+
 Curadoria: Seleção e organização de fontes relevantes.
+
 Perfil de usuário: Conjunto de interesses e necessidades informacionais de cada indivíduo.
+
 Biblioteca digital: Ambiente virtual que oferece acesso a conteúdos informacionais.
 
 Conjunto de Prompts Reutilizáveis:
 
 "Explique como a DSI pode apoiar pesquisadores em bibliotecas digitais."
+
 "Liste exemplos práticos de serviços de DSI em bibliotecas universitárias."
+
 "Quais são os desafios da implementação da DSI em ambientes digitais?"
 "Crie um resumo sobre a evolução histórica da DSI."
 
